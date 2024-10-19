@@ -1,1 +1,1 @@
-## My Solutions For 8kyu ##
+# My Solutions For 8kyu
