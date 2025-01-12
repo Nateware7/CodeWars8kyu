@@ -1,1 +1,1 @@
-# My Solutions For 8kyu
+# Here is my completed codewars challenges for 7kyu
